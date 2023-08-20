@@ -2,8 +2,8 @@ import Form from "./Form";
 import Tasks from "./Tasks";
 
 const tasks = [
-  {id: 1, content: "piwo", done: false},
-  {id: 2, content: "piwko", done: true},
+  {id: 1, content: "zadanie 1", done: false},
+  {id: 2, content: "zadanie 2", done: true},
 ];
 
 const hideDoneTasks = false;
